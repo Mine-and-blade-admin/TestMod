@@ -3,7 +3,7 @@ TestMod
 
 Dummy Addon Example for Battlegear2
 
-This is the core of what is "necesary" for an addon of https://github.com/Mine-and-blade-admin/Battlegear2, in short steps:
+This is the core of what is "necessary" for an addon of https://github.com/Mine-and-blade-admin/Battlegear2, in short steps:
 
 -Add compiled jar into your mod gradle setup (preferably in eclipse.mods folder, so it can run in debug)
 
